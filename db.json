@@ -63,7 +63,7 @@
     {
       "content": "hey hey hey I just used json to store data bitches",
       "date": "2020-06-07T22:11:48.018Z",
-      "important": true,
+      "important": false,
       "id": 11
     },
     {
@@ -75,7 +75,7 @@
     {
       "content": "hehehehehehehehehe",
       "date": "2020-06-07T22:22:38.342Z",
-      "important": true,
+      "important": false,
       "id": 13
     },
     {
@@ -83,6 +83,36 @@
       "date": "2020-06-08T01:32:06.801Z",
       "important": false,
       "id": 14
+    },
+    {
+      "content": "let's check json capabilities",
+      "date": "2020-06-08T18:21:29.498Z",
+      "important": false,
+      "id": 15
+    },
+    {
+      "content": "this note is added to check the functionality of error message",
+      "date": "2020-06-08T18:46:23.760Z",
+      "important": false,
+      "id": 16
+    },
+    {
+      "content": "this note will test the error functionality",
+      "date": "2020-06-08T18:47:54.389Z",
+      "important": true,
+      "id": 17
+    },
+    {
+      "content": "hehehe",
+      "date": "2020-06-08T18:48:06.429Z",
+      "important": false,
+      "id": 18
+    },
+    {
+      "content": "hubba lubba dub dub",
+      "date": "2020-06-08T18:48:29.925Z",
+      "important": true,
+      "id": 19
     }
   ]
 }
